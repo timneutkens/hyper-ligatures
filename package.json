@@ -1,8 +1,9 @@
 {
   "name": "hyper-ligatures",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enable font ligatures for Hyper",
   "main": "index.js",
   "author": "Tim Neutkens",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "timneutkens/hyper-ligatures"
 }
